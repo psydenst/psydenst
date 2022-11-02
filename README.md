@@ -20,4 +20,4 @@ in humanities as well (major in philosophy and psychology).
 <br> <br/>
 <i>NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<i/>
 
-![Snake animation](https://github.com/psydenst/psydenst/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/psydenst/psydenst/blob/output/github-contribution-grid-snake.svg)
