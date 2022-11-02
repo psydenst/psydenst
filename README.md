@@ -2,7 +2,7 @@
 Heyo!👋 <br>
 
 I am Pedro, a software engineering student at [42 | Rio](https://42.rio/). Beside my coding formation, I have a solid background 
-in humanities as well (major in philosophy and psychology).
+in humanities (major in philosophy and psychology).
 
 *  🧔   He/Him
 *  🧠   Learning C
