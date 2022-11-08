@@ -1,5 +1,5 @@
 # Who dis?
-Heyo!👋 <br>
+Hello!👋 <br>
 
 I am Pedro, a software engineering student at [42 | Rio](https://42.rio/). Beside my coding formation, I have a solid background 
 in humanities (major in philosophy and psychology).
