@@ -7,7 +7,7 @@ in humanities (major in philosophy and psychology).
 *  🧔   He/Him
 *  🧠   Learning C
 *  🌎   Available in EN, FR and PT-BR
-*  📫   Reach me psydenst.dev@gmail.com
+*  📫   Reach me at: psydenst.dev@gmail.com
 *  🕴   I'm also at [Linkedin](https://www.linkedin.com/in/pedro-sydenstricker-alvares-6182a414b/)
 *  🎵   Fun fact: I'm a passionate musician!
 ---
