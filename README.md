@@ -6,7 +6,7 @@ in humanities (major in philosophy and psychology).
 
 *  🧔   He/Him
 *  🧠   Learning C++
-*  💻.  C, Git, Linux and MacOS. 
+*  💻   C, Git, Linux and MacOS. 
 *  🌎   Available in EN, FR and PT-BR
 *  📫   Reach me at: psydenst.dev@gmail.com
 *  🕴   I'm also at [Linkedin](https://www.linkedin.com/in/pedro-sydenstricker-alvares-6182a414b/)
