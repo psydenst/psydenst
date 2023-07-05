@@ -1,8 +1,12 @@
 # Who dis?
-Hello!👋 <br>
 
-I am Pedro, a software engineering student at [42 | Rio](https://42.rio/). Beside my coding formation, I have a solid background 
-in humanities (major in philosophy and psychology).
+Cadet at École 42, recently listed as the sixth best university in the world by WURI.
+
+FullStack Developer; with experience in C, C++, HTML, CSS, JavaScript, Bash, algorithms, threads and game development. Complementary experience in memory management, with tools like Valgrind and Leaks, and Git. 
+
+I am calm, communicative and challenge driven. Always eager to learn new technologies; I see in software engineering the possibility to implement practical solutions that positively impact people's lives.
+
+psydenst.dev@gmail.com
 
 *  🧔   He/Him
 *  🧠   Learning C++
