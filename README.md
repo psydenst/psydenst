@@ -1,6 +1,6 @@
-# Who dis?
+# Pedro, who?
 
-Cadet at École 42, recently listed as the sixth best university in the world by WURI.
+Cadet at École 42, recently listed as the sixth most innovative university in the world by WURI.
 
 FullStack Developer; with experience in C, C++, HTML, CSS, JavaScript, Bash, algorithms, threads and game development. Complementary experience in memory management, with tools like Valgrind and Leaks, and Git. 
 
