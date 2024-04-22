@@ -9,7 +9,8 @@ I am calm, communicative and challenge driven. Always eager to learn new technol
 psydenst.dev@gmail.com
 
 *  🧔   He/Him
-*  💻   C++, C, Javascript, Git, Linux and MacOS. 
+*  💻   C++, C, Javascript, Git, Linux and MacOS.
+*  🧠   Learning Go
 *  🌎   Available in EN, FR and PT-BR
 *  📫   Reach me at: psydenst.dev@gmail.com
 *  🕴   I'm also at [Linkedin](https://www.linkedin.com/in/pedro-sydenstricker-alvares-6182a414b/)
