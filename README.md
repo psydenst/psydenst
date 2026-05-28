@@ -1,6 +1,6 @@
 # Pedro, who?
 
-Cadet at École 42, recently listed as the sixth most innovative university in the world by WURI.
+Grduated at École 42, recently listed as the sixth most innovative university in the world by WURI.
 
 FullStack Developer; with experience in C, C++, HTML, CSS, JavaScript, Bash, algorithms, threads and game development. Complementary experience in memory management, with tools like Valgrind and Leaks, and Git. 
 
@@ -9,8 +9,6 @@ I am calm, communicative and challenge driven. Always eager to learn new technol
 psydenst.dev@gmail.com
 
 *  🧔   He/Him
-*  💻   C++, C, Javascript, Git, Linux and MacOS.
-*  🧠   Learning Go
 *  🌎   Available in EN, FR and PT-BR
 *  📫   Reach me at: psydenst.dev@gmail.com
 *  🕴   I'm also at [Linkedin](https://www.linkedin.com/in/pedro-sydenstricker-alvares-6182a414b/)
