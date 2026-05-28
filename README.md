@@ -13,14 +13,4 @@ psydenst.dev@gmail.com
 *  📫   Reach me at: psydenst.dev@gmail.com
 *  🕴   I'm also at [Linkedin](https://www.linkedin.com/in/pedro-sydenstricker-alvares-6182a414b/)
 *  🎵   Fun fact: I'm a passionate musician!
----
-<a href="https://github.com/psydenst/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=psydenst&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/psydenst/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psydenst&show_icons=true&theme=dracula" />
-</a>
-<br> <br/>
-<i>NOTE: Top Languages does not indicate my skill level or anything like that; it's a GitHub metric to determine which languages have the most code on GitHub. It's a new feature of github-readme-stats.<i/>
 
-  ![Snake animation](https://github.com/psydenst/psydenst/blob/output/github-contribution-grid-snake.svg)
